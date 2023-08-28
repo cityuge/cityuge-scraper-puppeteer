@@ -1,0 +1,12 @@
+{
+  "name": "cityuge-scraper-puppeteer",
+  "version": "1.0.0",
+  "description": "This repository is a new version scraper, which aims to scrape data from CityU GE Website. Using Puppeteer to convert the data to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node index.js"
+  },
+  "author": "Tommy Han",
+  "license": "ISC"
+}
